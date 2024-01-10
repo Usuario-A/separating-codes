@@ -1,10 +1,11 @@
 # SOFTWARE FOR GENERATION OF BINARY 2-SEPARARING CODES
 
-<a href="https://github.com/GTAC-ITEAM-UPV/separating-codes/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/GTAC-ITEAM-UPV/separating-codes?color=2b9348"></a>
-<img alt="Stars" src="https://img.shields.io/github/stars/GTAC-ITEAM-UPV/separating-codes?style=flat-square&labelColor=343b41"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/GTAC-ITEAM-UPV/separating-codes?style=flat-square&labelColor=343b41"/>
-<img alt="Issues" src="https://img.shields.io/github/issues/GTAC-ITEAM-UPV/separating-codesest?style=flat-square&labelColor=343b41"/>
-<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GTAC-ITEAM-UPV/separating-codes?style=flat-square&labelColor=343b41"/>
+     <a href="https://github.com/GTAC-ITEAM-UPV/separating-codes/graphs/contributors">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/GTAC-ITEAM-UPV/separating-codes?color=2b9348">     </a>
+<img alt="Stars"                      src="https://img.shields.io/github/stars/GTAC-ITEAM-UPV/separating-codes?style=flat-square&labelColor=343b41"/>
+<img alt="Forks"                      src="https://img.shields.io/github/forks/GTAC-ITEAM-UPV/separating-codes?style=flat-square&labelColor=343b41"/>
+<img alt="Issues"                    src="https://img.shields.io/github/issues/GTAC-ITEAM-UPV/separating-codes?style=flat-square&labelColor=343b41"/>
+<img alt="Pull Requests"          src="https://img.shields.io/github/issues-pr/GTAC-ITEAM-UPV/separating-codes?style=flat-square&labelColor=343b41"/>
 
  <img alt="Pull Requests"  src="https://img.shields.io/github/tag/GTAC-ITEAM-UPV/separating-codes.svg"/> 
 
