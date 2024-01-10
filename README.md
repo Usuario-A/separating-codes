@@ -6,13 +6,16 @@ This repository contains the source code of three algorithms for **generation of
  
 
 - [Overview](#overview)
+
+- [Contents](#contents)
   
 - [References](#references)
 
-- [Contents](#contents)
+
 
 
 <sup>1</sup> Department of Communications. Universitat Politècnica de València, València (Spain)
+
 <sup>2</sup> Department of Informatics Systems and Computation. Universitat Politècnica de València, València (Spain)
 
 
@@ -36,6 +39,20 @@ theoretical appeal; codes obtained through this first algorithm can be shown to 
 known lower bound. A second algorithm has been implemented, which was designed to generate
 codes with rates as large as possible. The rates achieved are larger than those achieved with
 the first algorithm, but they still are very far form the theoretical upper bound. 
+
+</div>
+
+
+<div id="contents">
+
+## Contents
+
+- The folder `version_matlab_paper` has a version that only needs Matlab.
+
+- The folder `version_matlab_gpu_paper` has a version that requires Matlab, a CUDA programmable GPU and the Matlab Parallel Toolbox.
+
+- The folder `version_cuda_seq_add` has a CUDA version of the sequential addition algorithm. Requires a CUDA programmable GPU and the 
+nvcc CUDA compiler.
 
 </div>
 
@@ -92,15 +109,4 @@ Guide_, NVIDIA Corporation, 2007.
 </div>
 
 
-<div id="contents">
 
-## Contents
-
-- The folder `version_matlab_paper` has a version that only needs Matlab.
-
-- The folder `version_matlab_gpu_paper` has a version that requires Matlab, a CUDA programmable GPU and the Matlab Parallel Toolbox.
-
-- The folder `version_cuda_seq_add` has a CUDA version of the sequential addition algorithm. Requires a CUDA programmable GPU and the 
-nvcc CUDA compiler.
-
-</div>
