@@ -1,7 +1,7 @@
 # SOFTWARE FOR GENERATION OF BINARY 2-SEPARARING CODES
 
 
-This repository contains the source code of three algorithms for **generation of separating codes**, written by Francisco José Martínez Zaldívar<sup>1</sup> and Víctor Manuel García Mollá<sup>2</sup>.
+This repository contains the source code of several algorithms for **generation of separating codes**, written by Francisco José Martínez Zaldívar<sup>1</sup> and Víctor Manuel García Mollá<sup>2</sup>.
 
  
 
@@ -14,8 +14,7 @@ This repository contains the source code of three algorithms for **generation of
 
 
 
-<sup>1</sup> Department of Communications. Universitat Politècnica de València, València (Spain)
-
+<sup>1</sup> Department of Communications. Universitat Politècnica de València, València (Spain)<br>
 <sup>2</sup> Department of Informatics Systems and Computation. Universitat Politècnica de València, València (Spain)
 
 
