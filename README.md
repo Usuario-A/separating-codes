@@ -23,7 +23,9 @@ nvcc CUDA compiler.
 
 
 <div id="overview">
+ 
 ## Overview 
+
 This software addresses the generation of *binary 2-separating codes*, and the study of the code rates
 that can be achieved in practice. 
 
