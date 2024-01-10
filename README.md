@@ -25,8 +25,8 @@ This repository contains the source code of several algorithms for **generation 
 
 
 
-<h6><sup>1</sup> Department of Communications. Universitat Politècnica de València, València (Spain)</span></h6>
-<h6><sup>2</sup> Department of Informatics Systems and Computation. Universitat Politècnica de València, València (Spain)</h6>
+<h6><sup>1</sup> Department of Communications. Universitat Politècnica de València, València (Spain)</span><br>
+     <sup>2</sup> Department of Informatics Systems and Computation. Universitat Politècnica de València, València (Spain)</h6>
 
 
 <div id="overview">
