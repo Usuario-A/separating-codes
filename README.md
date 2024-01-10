@@ -56,6 +56,27 @@ nvcc CUDA compiler.
 </div>
 
 
+<div id="contact">
+
+## Contact
+
+
+</div>
+
+
+<div id="ack">
+
+## Acknowledgements
+
+This work was supported in part by MICIN under grant PID2021-125736OB-I00 (MCIN/AEI
+/10.13039/501100011033/, “ERDF A way of making Europe”), and by GVA under grant
+CIPROM/2022/20. 
+
+</div>
+
+
+
+
 <div id="references">
 
 ## References
