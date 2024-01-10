@@ -51,7 +51,7 @@ the first algorithm, but they still are very far form the theoretical upper boun
 
 - The folder `version_matlab_gpu_paper` has a version that requires Matlab, a CUDA programmable GPU and the Matlab Parallel Toolbox.
 
-- The folder [`version_cuda_seq_add`](./version_cuda_seq_add/README.md) has a CUDA version of the sequential addition algorithm. Requires a CUDA programmable GPU and the 
+- The folder [`version_cuda_seq_add`](./version_cuda_seq_add/) has a CUDA version of the sequential addition algorithm. Requires a CUDA programmable GPU and the 
 nvcc CUDA compiler.
 
 </div>
