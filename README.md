@@ -8,8 +8,12 @@ This repository contains the source code of several algorithms for **generation 
 - [Overview](#overview)
 
 - [Contents](#contents)
-  
+
+- [Acknowledgements](#ack) 
+   
 - [References](#references)
+
+
 
 
 
@@ -55,13 +59,6 @@ nvcc CUDA compiler.
 
 </div>
 
-
-<div id="contact">
-
-## Contact
-
-
-</div>
 
 
 <div id="ack">
