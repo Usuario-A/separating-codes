@@ -11,6 +11,11 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/GTAC-ITEAM-UPV/separating-codes/total)
 
 
+  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/GTAC-ITEAM-UPV/separating-codes)
+  ![GitHub top language](https://img.shields.io/github/languages/top/GTAC-ITEAM-UPV/separating-codes)
+  ![GitHub](https://img.shields.io/github/license/GTAC-ITEAM-UPV/separating-codes)
+
+
 This repository contains the source code of several algorithms for **generation of separating codes**, written by Francisco José Martínez Zaldívar<sup>1</sup> and Víctor Manuel García Mollá<sup>2</sup>.
 
  
