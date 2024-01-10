@@ -6,6 +6,7 @@
 <img alt="Issues" src="https://img.shields.io/github/issues/GTAC-ITEAM-UPV/tseparating-codesest?style=flat-square&labelColor=343b41"/>
 <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GTAC-ITEAM-UPV/separating-codes?style=flat-square&labelColor=343b41"/>
 
+ <img alt="Pull Requests"  src="https://img.shields.io/github/tag/GTAC-ITEAM-UPV/separating-codes.svg"/> 
 
 ![GitHub all releases](https://img.shields.io/github/downloads/GTAC-ITEAM-UPV/separating-codes/total)
 
