@@ -1,5 +1,14 @@
 # SOFTWARE FOR GENERATION OF BINARY 2-SEPARARING CODES
 
+<a href="https://github.com/GTAC-ITEAM-UPV/separating-codes/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/GTAC-ITEAM-UPV/separating-codes?color=2b9348"></a>
+<img alt="Stars" src="https://img.shields.io/github/stars/GTAC-ITEAM-UPV/separating-codes?style=flat-square&labelColor=343b41"/></td>
+<img alt="Forks" src="https://img.shields.io/github/forks/GTAC-ITEAM-UPV/separating-codes?style=flat-square&labelColor=343b41"/></td>
+<img alt="Issues" src="https://img.shields.io/github/issues/GTAC-ITEAM-UPV/tseparating-codesest?style=flat-square&labelColor=343b41"/></td>
+<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GTAC-ITEAM-UPV/separating-codes?style=flat-square&labelColor=343b41"/></td>
+
+
+![GitHub all releases](https://img.shields.io/github/downloads/GTAC-ITEAM-UPV/separating-codes/total)
+
 
 This repository contains the source code of several algorithms for **generation of separating codes**, written by Francisco José Martínez Zaldívar<sup>1</sup> and Víctor Manuel García Mollá<sup>2</sup>.
 
